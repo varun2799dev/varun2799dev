@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Varun currently a software engineer from India.
-- 👀 I’m interested in frontend as well as backend domain in frontend I m interested in React .js and in backend Python Django.
-- 🌱 I’m currently learning frontend will start learning backend after this.
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning frontend with React.js will start learning backend after thisl
 
 <!---
 varun2799dev/varun2799dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
